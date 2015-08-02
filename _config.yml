@@ -1,0 +1,13 @@
+# Site settings
+title: Webę Jestę
+email: krzysdan@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Jestę devopsę, frontendę, backendę, testerę, adminę, piemę, uxę, scrumę i adżajlę. Jestę Alfą i Omegą. Początkiem i końcem.
+  Jestę Webę a expa mojego postanowiłem spisywać.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jestę.pl" # the base hostname & protocol for your site
+twitter_username: krzysdan
+github_username:  krisdante
+
+# Build settings
+markdown: kramdown

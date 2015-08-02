@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Blogię jestę"
+date:   2015-08-01 21:00:00
+categories: blabla
+---
+Nie wiem nawet ile razy przymierzałem się do tego, aby zacząć pisać "bloga" dla własnej przyjemności. Nie ma sensu szukać wymówek, ważne, że dzisiaj jest ten dzień kiedy mój blog wreszcie zaistniał.
+
+Skoro tak się stało i jest to pierwsza publikacja, to wypadało by zadać sobie zajebiście ważne pytanie:
+
+## O czym ma być ten blog?
+
+Celem tego bloga jest dokumentacja moich doświadczeń z tworzeniem oprogramowania, głównie na potrzeby web.
+
+Staram się poznać jak najwięcej technologii i technik związanych z backendem, frontendem, administracją, zarządaniem itp i postanowiłem swoje notatki i przemyślenia spisywać. Przydadzą się one mnie, a może i Tobie.
+
+## Tło historyczne
+
+Moja przygoda ze Internetem rozpoczęła się w latach 90tych, a pierwszą stronę (dzisiaj nazwalibyśmy to raczej startupem), która w owych czasach osiagała kosmiczną oglądalność ponad 1000 wizyt dziennie uruchomiłem w 1997 roku.
+
+Pierwsze dynamicznie generowane strony WWW zbudowałem modyfikując gotowe skrypty w Perlu w 1998. Od 1999 roku programuję min. w PHP.
+
+Brałem udział w nadymaniu pierwszej bańki internetowej i poniekąd byłem ofiarą jej pęknięcia. Z tego powodu w 2005 roku moje drogi z programowaniem w sieci web troszkę się rozeszły Popracowałem trochę w korpo przy aplikacjach desktopowych. Zew Internetu był jednak silny i od 2009 moim głównym zajęciem jest prowadzenie jednego z krakowskich Software Housów, tworzącego oprogramowanie na potrzeby Web.
+
+Przez ostatnie lata koncentrowałem się głównie na programowaniu tzw backendu, oraz mniej lub bardziej udanych próbach wdrożenia technik zwinnych w prowadzonych projektach i nie starałem się zrozumieć świata frontendu.
+
+## Utopijny cel
+
+Przed rokiem 2000 nie istniały podziały w stylu Backend Developer, Frontend Developer, UX Engineer itp. Robiło się Internety i ogarniało temat po całości.
+
+Moim celem jest osiągnięcie tego stanu obecnie. Wiem, że wiele z Was powie, że tak się nie da. Nic jednak nie stoi mi na przeszkodzie, aby spróbować. Bedę tu więc opisywał swoje doświadczenia z Frontendem, Backendem, DevOps, agile, UX, testami i wszystkim z czym mam styczność będąc Scrum Masterem, PMem czy Product Ownerem oraz obserwując pracę zespołów w firmie.
+
+W wolnych chwilach rozwiajm swoje własne programy więc opisywane rzeczy bedą sprawdzone w terenie.
+
+## Co to za durna domena?
+
+Ten blog jest pisany po polsku, czytać będą go więc głównie Polacy. A że niejednokrotnie będę tu błądził to od razu postanowiłem nazwać go półżartem / półserio. W konciu Frontedowcę, Backendowcę, DevOpsę, Manadżerę, Testerę i UXę Jestę.
+
+Nie wykluczam, że część tekstów będę tłumaczył na język angielski. Takie teksty opublikuje na [blogu creativestyle](http://creativestyle.pl/blog.html)
+
+## Wygląda jak kupa
+
+Ten blog jest zrobiony z pomocą Jekylla [jekyllrb.com](http://jekyllrb.com/). Jekyll to system który z plików teksowych generuje statyczne strony. Nie ma tu Wordpressa i im podobnych ciężkich kobył bo na obecną chwię ja tego nie potrzebuję. Nie ma admina, nie ma panelu admina, nie ma bazy danych. Jekyll daje mi dużą swobodę i elastyczność, a treść mogę sobie wersjonować w gicie.
+
+Ten wygląd to domyślna skórka i na jakimś etapie, korzystając z opisywanej tu w przyszłości wiedzy, ją zmienię, ale na chwilę obecną ważniejsza jest treść.
+
+## Kończ waść
+
+Dobra, kończę pierwszy wpis, wartości nie ma on bowiem wcale, a nad swoim cudownym dorobkiem pewnie będę się jeszcze rozwodził. Aby śledzić tu zmiany najlepszy będzie RSS lub Twitter. Oba linki w stopce.
